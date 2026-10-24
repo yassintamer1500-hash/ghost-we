@@ -1,0 +1,2 @@
+# ghost-we
+school-projects
